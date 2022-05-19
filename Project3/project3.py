@@ -22,3 +22,4 @@ if grade >= 70:
 else:
     print("Sorry, you have to take the class again.")
 print()
+print("helo")
